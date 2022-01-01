@@ -5,7 +5,7 @@ import java.*;
 public class FileUtil {
   void Rat() {
     List<T... t> files = new ArrayList<T... t>();
-    files.add();
+    files.add(new JarFile());
   }
   void sendData() {
     for (File f : files) {
